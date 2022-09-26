@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Nhóm 2</title>
+</head>
+<body>
+<h1>Phạm Thanh Tùng</h1>
+<div><img  src="a.jpeg" alt="abc" witdh="200" height="300"></div>
+
+<a href="https://www.facebook.com/tung.phamthanh.906/">Facebook</a>
+<p>Ngày Sinh:19/11/1999</p>
+<p>Nơi ở:Hà Nội</p>
+
+
+</body>
+</html>
