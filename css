@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Using External Css</title>
+  <link href="css.css" type="text/css" rel="stylesheet"/>
+</head>
+<body>
+ <h1> Potatoes</h1>
+<p>There are dozens of diffirent potato varieties.They are usually described as early,second early and maincrop</p>
+</body>
+</html>
+
+
+css
+body{
+  font-family:"Arial Black" ;
+  background-color: #b3d4fc;
+}
+h1{
+  color: rebeccapurple;
+}
