@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Title</title>
+  <link rel="stylesheet" href="css2.css">
+</head>
+<body>
+<div id="main">
+  <div id="head">
+    <p style="text-align: center; font-size: larger" >Phạm Thanh Tùng</p>
+  </div>
+  <div id="head-link">
+    <p style="text-align: center; font-size: large; color: red;">Giới Thiệu Bản  Thân</p>
+  </div>
+  <div id="left">
+    <img src="a.jpeg" alt="abc" width="150" height="400">
+  </div>
+  <div id="content">
+    <p>Ngày sinh;19/11/1999</p>
+    <p>Nơi ở:Hà Nội</p>
+    <p>Học tập:FPTAPTECH</p>
+  </div>
+  <div id="right">
+    <img src="E68F56D4-7FF4-49E3-8C94-2601556E666E.jpeg" width="234" height="400";>
+  </div>
+  <div id="footer"></div>
+
+</div>
+
+</body>
+</html>
+
+
+css
+body{
+  font-family: Arial,Tahoma;
+  font-size:12px;
+}
+#main{
+  width:1000px;
+  padding:0;
+  margin-left:auto;
+  margin-right:auto:
+}
+#head{
+  height: 15px;
+  background-color: #f5f5f5;
+  border: 1px solid #CDCDCD:
+  margin-bottom:5px;
+}
+#head-link{
+  height: 40px;
+  line-height: 30px;
+  padding-left: 10px;
+  padding-right:10px;
+  border:1px solid #CDCDCD;
+  background-color: #b3d4fc;
+  margin-bottom: 5px;
+  clear:both;
+}
+#left{
+  width:150px;
+  min-height: 400px;
+  border:1px solid  #CDCDCD;
+  float:left;
+  background-color: #004C00;
+  margin-bottom: 5px;
+}
+#content{
+  width:600px;
+  min-height:400px;
+  border: 1px solid #CDCDCD;
+  float:left;
+  margin-left:5px;
+  margin-right: 5px;
+  margin-bottom: 5px;
+  img opacity:0.5;
+
+}
+#rigt{
+  width: 234px;
+  min-height: 400px;
+  border:1px solid #CDCDCD;
+  float:right;
+  margin-bottom: 5px;
+}
+#footer{
+  height: 50px;
+  clear:both;
+  border:1px solid #CDCDCD;
+  background-color: #F8F8FF;
+}
